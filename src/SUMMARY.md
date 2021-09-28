@@ -1,0 +1,17 @@
+# Summary
+
+- [Intro](./intro.md)
+- [What it is?](./what_it_is.md)
+- [Adding a script to the page](./adding_a_script_to_the_page.md)
+- [Execute script in node environment](./node.md)
+- [Exercise 1](./exercise_1.md)
+- [Alerts and logs](./alerts_and_log.md)
+- [Variables](./variables.md)
+- [Scopes](./scope.md)
+- [Block and function](./block_and_function.md)
+- [Data types and structures](./data_types_and_structures.md)
+- [Operators](./operations.md)
+- [Exercise 2](./exercise2.md)
+- [Program control flow](./program_control_flow.md)
+- [Falsy values in Javascript](./falsy_values_in_javascript.md)
+- [For/while loops](./for_while_loops.md)
